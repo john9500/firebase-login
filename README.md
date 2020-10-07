@@ -1,5 +1,8 @@
 # firebase-login
 Login using Gmail and password
+
+Note: 
+      This is not an application this is just an contraint.
 // 1 . Create a Firebase developer account at https://firebase.google.com/ and click on 'GO TO CONSOLE'
 // 2 . Click on 'Add project'.
 // 3 . Select the 'Android' platform SDK.
